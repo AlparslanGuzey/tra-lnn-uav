@@ -9,7 +9,7 @@ and is organized to later plug in PPO/RL or multi-UAV coordination.
 > (2) evaluation metrics (success rate, path length, energy), and (3) publication-ready figures.
 
 ## Scenario (S2-lite for code)
-- 2D grid (default 40x40).
+- 2D grid (default 10x10).
 - Static rectangular obstacles.
 - **Moving obstacles** (patrol between waypoints).
 - **No-fly zones** that toggle on/off during the episode.
