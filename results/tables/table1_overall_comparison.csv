@@ -1,0 +1,9 @@
+Method,Episodes (N),Success ↑ (%),Avg steps ↓,Battery fail ↓ (%)
+"A* (coordinated, oracle)",1000,100.0,20.899,0.0
+"A* (coordinated, oracle)",1000,100.0,20.899,0.0
+LNN (ours),1000,94.9,25.647,\textbf{2.2}
+LNN (ours),1000,94.9,25.647,2.2
+GRU,1000,61.2,37.718,38.1
+GRU,1000,61.2,37.718,38.1
+Greedy heuristic,1000,\textbf{87.5},\textbf{40.618},0.0
+Greedy heuristic,1000,87.5,40.618,0.0

@@ -1,0 +1,7 @@
+{
+  "policy": "lnn",
+  "episodes": 1000,
+  "success_rate": 0.949,
+  "avg_steps": 25.647,
+  "batt_fail_rate": 0.022
+}

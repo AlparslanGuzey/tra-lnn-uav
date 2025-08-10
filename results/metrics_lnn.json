@@ -1,0 +1,8 @@
+{
+  "policy": "lnn",
+  "episodes": 1000,
+  "success_rate": 0.079,
+  "avg_path_len": 59.063,
+  "avg_energy_end": 0.07444695915654302,
+  "violations_per_ep": 0.189
+}

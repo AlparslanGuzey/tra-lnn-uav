@@ -1,0 +1,13 @@
+{
+  "episodes": 3000,
+  "success_eps": 2979,
+  "feat_dim": 18,
+  "W": 10,
+  "H": 10,
+  "n_uav": 3,
+  "n_dyn": 3,
+  "k_deliveries": 2,
+  "use_nofly": true,
+  "require_rtb": false,
+  "seed": 7
+}

@@ -1,0 +1,9 @@
+file,policy,tag,episodes,success_rate,avg_steps,batt_fail_rate
+multi_delivery_metrics_astar_coord.json,astar_coord,,1000,1.0,20.899,0.0
+multi_delivery_metrics_astar_coord_main.json,astar_coord,,1000,1.0,20.899,0.0
+multi_delivery_metrics_greedy.json,greedy,,1000,0.875,40.618,0.0
+multi_delivery_metrics_greedy_main.json,greedy,,1000,0.875,40.618,0.0
+multi_delivery_metrics_gru_baseline.json,gru,,1000,0.612,37.718,0.381
+multi_delivery_metrics_gru.json,gru,,1000,0.612,37.718,0.381
+multi_delivery_metrics_lnn.json,lnn,,1000,0.949,25.647,0.022
+multi_delivery_metrics_lnn_main.json,lnn,,1000,0.949,25.647,0.022

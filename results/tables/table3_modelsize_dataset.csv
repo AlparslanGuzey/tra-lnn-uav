@@ -1,0 +1,3 @@
+Model,Params (M),Input dim,Train set (BC),Seq set (T×N)
+LNN (ours),0.022,18,199725,8×136725
+GRU,0.021,18,199725,8×136725

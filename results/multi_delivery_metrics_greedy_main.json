@@ -1,0 +1,7 @@
+{
+  "policy": "greedy",
+  "episodes": 1000,
+  "success_rate": 0.875,
+  "avg_steps": 40.618,
+  "batt_fail_rate": 0.0
+}

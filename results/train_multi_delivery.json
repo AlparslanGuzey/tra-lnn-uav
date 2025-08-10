@@ -1,0 +1,6 @@
+{
+  "best_val_acc": 0.9459770690432083,
+  "best_checkpoint": "multi_delivery_lnn.pt",
+  "last_checkpoint": "multi_delivery_lnn_last.pt",
+  "epochs_run": 25
+}
